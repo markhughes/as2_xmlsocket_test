@@ -1,0 +1,9 @@
+<movie width="550" height="400" framerate="12">
+    <background color="#ffffff" />
+    <frame>
+        <doAction>
+            <![CDATA[
+            ]]>
+        </doAction>
+    </frame>
+</movie>
